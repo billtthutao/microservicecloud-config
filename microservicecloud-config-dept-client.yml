@@ -4,7 +4,7 @@ spring:
       - dev
    
 config:
-  info: version-1
+  info: version-2
 ---
 server:
   port: 8001
